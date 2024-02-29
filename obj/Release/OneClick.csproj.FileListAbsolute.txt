@@ -1,0 +1,10 @@
+C:\Ext Proj\OneClick\bin\Release\OneClick.exe.config
+C:\Ext Proj\OneClick\bin\Release\OneClick.exe
+C:\Ext Proj\OneClick\bin\Release\OneClick.pdb
+C:\Ext Proj\OneClick\obj\Release\OneClick.csproj.AssemblyReference.cache
+C:\Ext Proj\OneClick\obj\Release\OneClick.Form1.resources
+C:\Ext Proj\OneClick\obj\Release\OneClick.Properties.Resources.resources
+C:\Ext Proj\OneClick\obj\Release\OneClick.csproj.GenerateResource.cache
+C:\Ext Proj\OneClick\obj\Release\OneClick.csproj.CoreCompileInputs.cache
+C:\Ext Proj\OneClick\obj\Release\OneClick.exe
+C:\Ext Proj\OneClick\obj\Release\OneClick.pdb
